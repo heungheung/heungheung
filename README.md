@@ -1,4 +1,12 @@
-### Hi there 👋
+### Kenneth Heung 😈
+
+## Pages and SNS
+
+You can find me in various SNS
+- https://twitter.com/kennethheung
+- https://www.facebook.com/kenneth.heung
+- https://www.linkedin.com/in/kennethheung/
+- https://heung.cloud/
 
 <!--
 **heungheung/heungheung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
